@@ -2,6 +2,7 @@
 .bundle
 pkg/*
 Gemfile.lock
+*.gem
 
 # YARD artifacts
 .yardoc
